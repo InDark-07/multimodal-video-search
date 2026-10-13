@@ -1,0 +1,12 @@
+langchain>=0.3.20
+langchain-ollama>=0.2.3
+langgraph>=0.3.5
+sentence-transformers>=3.4.1
+transformers>=4.48.0
+torch
+faiss-cpu
+opencv-python
+Pillow
+numpy
+tqdm
+pydantic>=2.10
